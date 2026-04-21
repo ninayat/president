@@ -1,0 +1,3 @@
+[submodule "apps/web/public/cards"]
+	path = apps/web/public/cards
+	url = https://github.com/hanhaechi/playing-cards.git
